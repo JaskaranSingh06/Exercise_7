@@ -4,6 +4,9 @@ class Main{
         System.out.println(name); 
         System.out.println("Hello Java");  
 
-    
+        //second commit
+        System.out.println("I am second commit");
+
+        
     }  
 }
