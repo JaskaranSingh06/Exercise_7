@@ -7,6 +7,12 @@ class Main{
         //second commit
         System.out.println("I am second commit");
 
+        //third commit 
+        int a = 10;
+        int b = 5;
+        int c = a + b;
+        System.out.println("Addition: " + c);
+
         
     }  
 }
